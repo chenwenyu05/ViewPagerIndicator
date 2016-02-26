@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\exploded-aar\\ViewPagerIndicator\\library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_location.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_location.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_camera.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_camera.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_calendar.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_calendar.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_device_alarms.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_device_alarms.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_location.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_location.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_device_alarms.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_device_alarms.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_camera.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_camera.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\exploded-aar\\ViewPagerIndicator\\library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_calendar.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\src\\main\\res\\drawable\\perm_group_calendar.xml"
+    }
+]

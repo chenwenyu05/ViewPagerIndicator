@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\exploded-aar\\ViewPagerIndicator\\library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\exploded-aar\\ViewPagerIndicator\\library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "F:\\GitHub\\ViewPagerIndicator\\sample\\build\\intermediates\\exploded-aar\\ViewPagerIndicator\\library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "F:\\Project\\ViewPagerIndicator\\sample\\build\\intermediates\\exploded-aar\\ViewPagerIndicator\\library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    }
+]
